@@ -1,4 +1,6 @@
 ShiftX	KEYWORD1
+MSBbitShiftsRequired	LITERAL1
+Timeout	LITERAL1
 out_Byte	KEYWORD2
 in_Byte	KEYWORD2
 outEXTCLK_Byte	KEYWORD2
@@ -31,3 +33,19 @@ out_QwordArray	KEYWORD2
 in_QwordArray	KEYWORD2
 outEXTCLK_QwordArray	KEYWORD2
 inEXTCLK_QwordArray	KEYWORD2
+transfer_Byte	KEYWORD2
+transferEXTCLK_Byte	KEYWORD2
+transfer_Word	KEYWORD2
+transferEXTCLK_Word	KEYWORD2
+transfer_Dword	KEYWORD2
+transferEXTCLK_Dword	KEYWORD2
+transfer_Qword	KEYWORD2
+transferEXTCLK_Qword	KEYWORD2
+transfer_ByteArray	KEYWORD2
+transferEXTCLK_ByteArray	KEYWORD2
+transfer_WordArray	KEYWORD2
+transferEXTCLK_WordArray	KEYWORD2
+transfer_DwordArray	KEYWORD2
+transferEXTCLK_DwordArray	KEYWORD2
+transfer_QwordArray	KEYWORD2
+transferEXTCLK_QwordArray	KEYWORD2
