@@ -2199,3 +2199,5 @@ void ShiftXclass::transferEXTCLK_QwordArray(bool SelectPinUsed, uint8_t SelectPi
     }
   }
 }
+
+ShiftXclass ShiftX;

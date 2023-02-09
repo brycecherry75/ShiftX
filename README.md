@@ -9,6 +9,8 @@ ShiftX is a library with enhanced functionality of the shiftIn/shiftOut function
 
 1.1.0 Add transfer functions for simultaneous reading and writing like the Arduino SPI.transfer() function
 
+1.1.1 Fixed failure to compile on ARM platforms (Due etc.)
+
 ##FEATURES:##
 Shift 1 to 64 bits at a time whereas the standard shiftIn/shiftOut is fixed at 8 bits.
 
